@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Expander_footprints")(type "KiCad")(uri "${KIPRJMOD}/Libs/Footprints/Expander_footprints.pretty")(options "")(descr ""))
+)
